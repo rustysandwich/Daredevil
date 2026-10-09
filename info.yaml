@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "8x4 Register File"      # Project title
-  author:       ""      # Your name
+  author:       "Endi Xholi"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "8x4-bit register file with 1 synchronous write port and 2 combinational read ports"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
