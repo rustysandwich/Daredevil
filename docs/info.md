@@ -8,13 +8,13 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+ 8 different registers, which gather and store information based on the input, then the registers share this info with the output that it is connected to.
 
 ## How to test
 
-Explain how to use your project
+Give a binary value input; give a value to the demux, which then picks one of the 8 registers; then give the same register number to the demultiplexers to get the different values.
+Another way to test is to give one register an input, receive an output, and then do the same with another register with another output.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+An output point where you take and check the binary value output for the registers.
